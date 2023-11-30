@@ -9,6 +9,7 @@ Webpack is a powerful module bundler for JavaScript applications. It's commonly 
 3. yarn add -D typescript @types/react @types/react-dom
 4. yarn add -D babel-loader @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript @babel/plugin-transform-run
 5. yarn add -D webpack webpack-cli webpack-dev-server html-webpack-plugin
+6. yarn add --dev @svgr/webpack
 
 ## files
 
