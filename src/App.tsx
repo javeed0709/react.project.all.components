@@ -1,11 +1,13 @@
 import React from 'react'
 import './index.css'
-import LOGO from './asset/logo.svg'
+import Calculator from './Components/Calculator/Calculator'
+import { SignatureDateApp, ColorChanger } from './Components/BeginnersProjects'
 const App = () => {
   return (
     <>
-      <h1>React all component project</h1>
-      <img src={LOGO} alt="logo" width="300" />
+      {/* <SignatureDateApp /> */}
+      {/* <Calculator /> */}
+      <ColorChanger />
     </>
   )
 }
