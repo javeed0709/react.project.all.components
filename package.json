@@ -9,6 +9,7 @@
     "start": "webpack server --config webpack/webpack.config.js --open"
   },
   "dependencies": {
+    "@mui/icons-material": "^5.15.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
