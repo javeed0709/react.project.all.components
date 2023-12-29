@@ -1,2 +1,5 @@
 export { default as SignatureDateApp } from './SignatureDateApp/SignatureDateApp'
 export { default as ColorChanger } from './BackgroundColorChanger/ColorChanger'
+export { default as PostLike } from './PostLike/PostLike'
+export { default as PostsUsers } from './PostsUsers/PostsUsers'
+export { default as PercentageCal } from './PercentageCal/PercentageCal'
