@@ -3,10 +3,11 @@ import './index.css'
 import {
   SignatureDateApp,
   ColorChanger,
+  PostLike,
+  PostsUsers,
+  PercentageCal,
 } from './Components/BeginnersProjects'
-import PostLike from './Components/BeginnersProjects/PostLike/PostLike'
 import Calculator from './Components/Calculator/Calculator'
-import { SignatureDateApp, ColorChanger } from './Components/BeginnersProjects'
 
 const App = () => {
   return (
@@ -14,8 +15,9 @@ const App = () => {
       {/* <SignatureDateApp /> */}
       {/* <Calculator /> */}
       {/* <ColorChanger /> */}
-      <ColorChanger />
-      <PostLike />
+      {/* <PostLike /> */}
+      {/* <PostsUsers /> */}
+      <PercentageCal />
     </>
   )
 }
